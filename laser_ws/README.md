@@ -9,7 +9,7 @@ roscore
 ```
 catkin_make
 source devel/setup.bash
-rosrun turtles turtle.py
+rosrun laser_filter filter.py
 ```
 
 В **третьем** терминале
